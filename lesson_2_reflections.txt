@@ -10,3 +10,9 @@ So It creates the opportunity to have chose the files that we want to commit and
 How can you use the staging area to make sure you have one commit per logical change?
 
 by using git diff before to commit to see what changes has been staged.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to create a new experiment or feature.
+
+
