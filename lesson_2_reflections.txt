@@ -15,4 +15,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 When you want to create a new experiment or feature.
 
+How do the diagrams help you visualize the branch structure?
+
+By showing the state and comparing where every change is.
+
 
