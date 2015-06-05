@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 It is different because her we store only the files to be commited. 
 So It creates the opportunity to have chose the files that we want to commit and leave the ones that we still dont want on the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by using git diff before to commit to see what changes has been staged.
