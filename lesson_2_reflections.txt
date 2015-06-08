@@ -22,3 +22,23 @@ By showing the state and comparing where every change is.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 it merges everithing and use the date as to know whe the change was made.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Pros
+Automatic
+You do need to care about the code.
+It will be done in seconds.
+
+Cons.
+You dont know if it is merging something that you was not expecting
+
+
+Manually
+Pros
+You can figure out what you want and be sure that you are merging the right code.
+You can select every line of the code to be merge.
+
+Cons.
+It takes time resolving issues.
+You need to ask to other developers why they introduce new lines of code to make sure that is good code.
