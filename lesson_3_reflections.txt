@@ -20,3 +20,7 @@ that you could restore to that position again.
 How would you collaborate without using git or github? What would be easier, and what would be harder?
 
 I used to use SVN, but it is no easy.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+it could be happen when i need to have a code review or I m not sure if someone else modified the same that me.
