@@ -16,3 +16,7 @@ Branches is when you want to create a  new feature or you just want to work in a
 What is the benefit of having a copy of the last knwon state of the remote stored locally?
 
 that you could restore to that position again.
+
+How would you collaborate without using git or github? What would be easier, and what would be harder?
+
+I used to use SVN, but it is no easy.
