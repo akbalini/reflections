@@ -13,4 +13,6 @@ Clones is done when you wan to clone something in your local and you could be ab
 
 Branches is when you want to create a  new feature or you just want to work in a experiment based in a commit that you have done before.
 
+What is the benefit of having a copy of the last knwon state of the remote stored locally?
 
+that you could restore to that position again.
